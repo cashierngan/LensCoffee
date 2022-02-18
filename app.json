@@ -1,0 +1,48 @@
+{
+    "appId": "miniapp.AiTMevKr862jRsz01yBH.app1",
+    "name": "miniapp.AiTMevKr862jRsz01yBH.app1",
+    "displayName": "myApp2",
+    "client": {
+        "ios": {
+            "installMode": "IMMEDIATELY",
+            "deploymentTarget": 32
+        },
+        "android": {
+            "installMode": "IMMEDIATELY",
+            "deploymentTarget": 32
+        }
+    },
+    "groupId": "AiTMevKr862jRsz01yBH",
+    "uploadToken": "U2FsdGVkX1/xFmgtK5AVTA0cbnJDgxTbe8cVKk2ZLyUqgfYujd8wRkv2bZhXisfv/qW0YEn9xmHRwaxfSgNoJqNbR1AyHhPjuF6l/QhplXtJKqC34T7YSFi838Vrv35A",
+    "cliToken": "U2FsdGVkX18e4plQ5lu+mZWV5EGaAUtbBXO8Zz6ujmLJOh44FAkAl9wfBbVuYIMREVOD5AihO5BjRHzQwKHTm6FMMvFqfY+lOT72KDr209chRaJQSdUR1NP7Z98a3CDI",
+    "configuration_version": 1,
+    "permissions": [
+        {
+            "description": {
+                "vi": "Cho phép ứng dụng truy cập Hình Ảnh",
+                "en": "Allow access Photo"
+            },
+            "permission": "photo"
+        },
+        {
+            "permission": "location",
+            "description": {
+                "vi": "Cho phép ứng dụng truy cập định vị",
+                "en": "Allow access Location"
+            }
+        },
+        {
+            "description": {
+                "en": "Allow access Contact",
+                "vi": "Cho phép ứng dụng truy cập danh bạ"
+            },
+            "permission": "contacts"
+        }
+    ],
+    "support": {
+        "phone": "07949216199",
+        "email": "tuan.nguyen12@mservice.com.vn"
+    },
+    "bridgeMode": 1,
+    "partnerCode": "MOMO1234"
+}
