@@ -1,7 +1,7 @@
 {
-    "appId": "miniapp.u3uEVWDZw0wz1XtYCy6d.lancoffee",
-    "name": "miniapp.u3uEVWDZw0wz1XtYCy6d.lancoffee",
-    "displayName": "Lan Coffee",
+    "appId": "miniapp.u3uEVWDZw0wz1XtYCy6d.linskcoffee",
+    "name": "miniapp.u3uEVWDZw0wz1XtYCy6d.linskcoffee",
+    "displayName": "Linsk Coffee",
     "client": {
         "ios": {
             "installMode": "IMMEDIATELY",
