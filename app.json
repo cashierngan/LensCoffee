@@ -1,7 +1,7 @@
 {
-    "appId": "miniapp.AiTMevKr862jRsz01yBH.app1",
-    "name": "miniapp.AiTMevKr862jRsz01yBH.app1",
-    "displayName": "myApp2",
+    "appId": "miniapp.u3uEVWDZw0wz1XtYCy6d.lenscoffee",
+    "name": "miniapp.u3uEVWDZw0wz1XtYCy6d.lenscoffee",
+    "displayName": "Lens Coffee",
     "client": {
         "ios": {
             "installMode": "IMMEDIATELY",
@@ -44,5 +44,5 @@
         "email": "tuan.nguyen12@mservice.com.vn"
     },
     "bridgeMode": 1,
-    "partnerCode": "MOMO1234"
+    "partnerCode": "MOMORROZ20220922"
 }
