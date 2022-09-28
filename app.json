@@ -1,7 +1,7 @@
 {
-    "appId": "miniapp.u3uEVWDZw0wz1XtYCy6d.lenscoffee",
-    "name": "miniapp.u3uEVWDZw0wz1XtYCy6d.lenscoffee",
-    "displayName": "Lens Coffee",
+    "appId": "miniapp.u3uEVWDZw0wz1XtYCy6d.lancoffee",
+    "name": "miniapp.u3uEVWDZw0wz1XtYCy6d.lancoffee",
+    "displayName": "Lan Coffee",
     "client": {
         "ios": {
             "installMode": "IMMEDIATELY",
